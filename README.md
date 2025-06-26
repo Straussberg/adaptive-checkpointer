@@ -1,5 +1,4 @@
-# Adaptive Checkpointer [![PyPI](https://img.shields.io/pypi/v/adaptive-checkpointer)](https://pypi.org/project/adaptive-checkpointer/)
-
+[![PyPI](https://img.shields.io/pypi/v/adaptive-checkpointer)](https://pypi.org/project/adaptive-checkpointer/)
 > √T-based adaptive checkpointing for distributed simulations and systems
 
 ```python
